@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Peace lily illustration">
+  <rect width="600" height="450" rx="36" fill="#f5fbf4"/>
+  <ellipse cx="300" cy="392" rx="112" ry="28" fill="#dce9d8"/>
+  <rect x="290" y="174" width="20" height="156" rx="10" fill="#609f65"/>
+  <path d="M302 178c-82-92-164-40-152 24 9 44 58 77 122 50l30-74z" fill="#38af70"/>
+  <path d="M298 206c88-88 168-32 154 34-10 44-64 75-126 42l-28-76z" fill="#43bb7b"/>
+  <path d="M296 98c0-44 66-74 114-34 24 20 24 54-4 82-34 34-110 10-110-48z" fill="#fff9ea"/>
+  <path d="M345 110c28 18 42 38 40 58" stroke="#d1b060" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="300" cy="362" r="74" fill="#b47a4d"/>
+  <path d="M228 366h144c-12 34-38 48-72 48s-60-14-72-48z" fill="#915d3b"/>
+</svg>

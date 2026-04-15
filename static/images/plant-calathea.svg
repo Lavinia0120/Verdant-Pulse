@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Calathea illustration">
+  <rect width="600" height="450" rx="36" fill="#f5f1ff"/>
+  <ellipse cx="300" cy="388" rx="118" ry="28" fill="#e0d8ef"/>
+  <rect x="292" y="160" width="16" height="160" rx="8" fill="#678f61"/>
+  <path d="M300 180c-90-70-135-4-122 36 12 40 74 58 122 32V180z" fill="#648f58"/>
+  <path d="M300 205c92-72 140-8 128 34-12 42-76 62-128 38v-72z" fill="#5f8e63"/>
+  <path d="M300 120c-55-72-120-24-112 28 6 38 49 62 112 48v-76z" fill="#7aa670"/>
+  <path d="M300 135c60-78 128-25 116 30-9 41-55 62-116 44v-74z" fill="#739d75"/>
+  <path d="M214 216c42-12 61-4 86 14" stroke="#d7e7c3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M390 238c-36-16-59-14-90 4" stroke="#d7e7c3" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="300" cy="356" r="74" fill="#af7a54"/>
+  <path d="M226 360h148c-12 34-38 48-74 48s-62-14-74-48z" fill="#8f5f3f"/>
+</svg>
